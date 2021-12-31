@@ -1,0 +1,16 @@
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/web/view/CompositionView.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/base/CompositionBaseReq.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/exeptions/ApiError.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/repository/CompositionsRepository.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/base/BaseRequest.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/web/model/Compositions.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/exeptions/EntityNotFoundExeption.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/exeptions/ApiErrorResponse.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/Application.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/web/view/CompositionToCompositionViewConverter.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/config/MessageConfig.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/util/MessageUtil.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/ServletInitializer.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/web/controller/CompositionsController.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/exeptions/ApiExceptionHandler.java
+/home/rollcorn/Programming/Java/spring-project/src/main/java/com/coursera/spring/service/CompositionsService.java
